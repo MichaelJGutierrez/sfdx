@@ -1,3 +1,4 @@
 #Don't track these files
 
 geolcation/.sfdx
+.vim-force.com
