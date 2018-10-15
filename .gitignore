@@ -1,4 +1,4 @@
 #Don't track these files
 
-geolocation/.sfdx
+*/.sfdx
 .vim-force.com
